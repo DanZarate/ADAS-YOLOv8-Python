@@ -1,4 +1,4 @@
-# ADAS-YOLO-Android
+# ADAS-YOLO-Android-Python
 Desarrollo de un ADAS, con detección de objetos mediante aplicativo móvil android
 
 ## Descripcion
